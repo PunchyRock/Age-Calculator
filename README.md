@@ -1,4 +1,4 @@
-# Age-Calculator
+# Age-Calculator for Blogger Website
 This is an age calculator web application built using HTML, CSS, and JavaScript. It allows the user to input their date of birth and calculates their age in years, months, and days.
 
 The HTML structure consists of a form with a label and input field for the date of birth, a button to trigger the age calculation, and a div to display the result. The CSS styling is used to create a visually appealing interface with a responsive design.
